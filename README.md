@@ -1,6 +1,3 @@
-# UAS-Pemrosesan-Data-Tersebar
-
-
 # UAS Pemrosesan Data Tersebar
 
 Aplikasi Pembelian dan Penjualan dengan database Oracle, dengan System Administrator menggunakan PHP CI dan Interface di Mobile Apps (Android). Komunikasi data antar Aplikasi menggunakan Restfull API di oracle.
